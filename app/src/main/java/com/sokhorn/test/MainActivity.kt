@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // hello bash change fdf fd
+        // hello bash change fdf fd f
     }
 }
